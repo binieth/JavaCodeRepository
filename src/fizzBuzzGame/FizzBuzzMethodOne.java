@@ -1,6 +1,6 @@
 package fizzBuzzGame;
 
-public class FizzBuzzGame {
+public class FizzBuzzMethodOne {
 
 	public static void main(String[] args) {
 		
